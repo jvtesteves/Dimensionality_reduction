@@ -1,4 +1,3 @@
-```markdown
 # Image Conversion to Grayscale and Binarization
 
 This repository contains a simple project demonstrating how to:
